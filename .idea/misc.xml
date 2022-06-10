@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/drawable/child_border.xml" value="0.252" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/drawable/input_boarder.xml" value="0.1975" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/activity_calendar.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/activity_children.xml" value="0.18" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/activity_verification.xml" value="0.25" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/calender_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sandie/SANDRA/app/src/main/res/layout/child_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/drawable/child_border.xml" value="0.1595" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_calendar.xml" value="0.22" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_children.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_log_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_register.xml" value="0.3447636700648749" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/activity_verification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/calender_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/child_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/from_message_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/layout/to_message_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Softbox 001/AndroidStudioProjects/VACCINATION_APP-main/app/src/main/res/menu/settings.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

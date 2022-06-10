@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916091800417",
+    "firebase_url": "https://sandra-a3961-default-rtdb.firebaseio.com",
+    "project_id": "sandra-a3961",
+    "storage_bucket": "sandra-a3961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916091800417:android:91d9a386cc61007c3b5320",
+        "android_client_info": {
+          "package_name": "com.example.sandra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916091800417-h48u3lif2ufp409de7fmaut43fd4eaet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandra",
+            "certificate_hash": "3c9945e52307cb76c9039c2acf458755417a7202"
+          }
+        },
+        {
+          "client_id": "916091800417-s3e9b7fa6oao87knb1m4kbjhsgf17jm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHj5LYt6OSCwa3ibgUGrbQe5jccv5maGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916091800417-s3e9b7fa6oao87knb1m4kbjhsgf17jm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

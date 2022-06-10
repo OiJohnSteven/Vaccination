@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vaccination Tracker</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="next">NEXT</string>
+
+    <string name="log_child">Select Child</string>
+    <string name="log_out">Log Out</string>
+</resources>
